@@ -1,0 +1,21 @@
+.pageHeader {
+  text-align: center;
+  padding-bottom: 2em;
+}
+
+.list {
+  justify-content: center;
+  align-items: normal;
+  column-count: calc(3);
+}
+
+.shop {
+  border: 1px dotted black;
+  padding: 0.05em 5em 0em 0em;
+}
+
+.list2 {
+  display: flex;
+  gap: 400px;
+  justify-content: center;
+}
